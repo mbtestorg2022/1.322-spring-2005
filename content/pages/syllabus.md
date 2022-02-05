@@ -79,7 +79,7 @@ Lecture Topics
 
 *   Compaction Process (Fundamentals)
 *   Structure and Engineering Properties
-*   Effective Stress with S < 100%
+*   Effective Stress with S \< 100%
 *   Constitutive Modeling
 
 ### Miscellaneous
@@ -90,7 +90,67 @@ Lecture Topics
 Comparison of Laboratory and In Situ Testing: Complimentary, Not Competing
 --------------------------------------------------------------------------
 
-| LAB (oedometer, triaxial, etc.) | IN SITU (FV, CPTU, DMT, SBPT, etc.) |
-| --- | --- |
-|  {{< br >}}{{< br >}} _Advantages  {{< br >}}_  {{< br >}}Well defined boundary conditions → well defined soil properties via interpretation with continuum mechanics.  {{< br >}}  {{< br >}}Can control loading and drainage conditions → property variation with stress path and drainage.  {{< br >}}  {{< br >}}Known soil type and features. {{< br >}}{{< br >}}  | _Advantages_  {{< br >}}  {{< br >}}Testing soil at in situ conditions and usually less affected by disturbance.  {{< br >}}  {{< br >}}Usually lower cost, more rapid and some field tests (CPTU) can provide continuous profile.  {{< br >}}  {{< br >}}Best suited for spatial variability → mean trends + scatter about mean. |
-| _Limitations  {{< br >}}  {{< br >}}_Sample disturbance  {{< br >}}  {{< br >}}\- Affects properties (especially cohesionless soils)  {{< br >}}\- Misleading spatial variations.  {{< br >}}  {{< br >}}Discontinuous data on small fraction of soil  {{< br >}}  {{< br >}}High cost | _Limitations  {{< br >}}  {{< br >}}_Ill-defined boundary conditions (stress-strain-drainage)  {{< br >}}  {{< br >}}\- Need empirical correlations for soil properties  {{< br >}}  {{< br >}}May not know soil type
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LAB (oedometer, triaxial, etc.)
+{{< thclose >}}
+{{< thopen >}}
+IN SITU (FV, CPTU, DMT, SBPT, etc.)
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+_Advantages  
+_  
+Well defined boundary conditions → well defined soil properties via interpretation with continuum mechanics.  
+  
+Can control loading and drainage conditions → property variation with stress path and drainage.  
+  
+Known soil type and features.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+_Advantages_  
+  
+Testing soil at in situ conditions and usually less affected by disturbance.  
+  
+Usually lower cost, more rapid and some field tests (CPTU) can provide continuous profile.  
+  
+Best suited for spatial variability → mean trends + scatter about mean.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+_Limitations  
+  
+_Sample disturbance  
+  
+\- Affects properties (especially cohesionless soils)  
+\- Misleading spatial variations.  
+  
+Discontinuous data on small fraction of soil  
+  
+High cost
+{{< tdclose >}}
+{{< tdopen >}}
+_Limitations  
+  
+_Ill-defined boundary conditions (stress-strain-drainage)  
+  
+\- Need empirical correlations for soil properties  
+  
+May not know soil type
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

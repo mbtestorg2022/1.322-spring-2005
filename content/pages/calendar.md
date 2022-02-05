@@ -6,30 +6,429 @@ uid: 36203326-f160-8888-a806-19c55ce8241a
 
 The calendar of the class is presented here. In the Lecturer column, AJW is Andrew Whittle, and LCJ is Lucy Jen.
 
-| SES # | LECTURERS | TOPICS | KEY DATES |
-| --- | --- | --- | --- |
-| 1 | AJW and LCJ | Overview, Organization, Soil Composition  {{< br >}}  {{< br >}}Clay-Water Forces |  |
-| 2 | LCJ | Clay-Water Forces, Interparticle Forces |  |
-| 3 | LCJ | Strength Generation in Soils  {{< br >}}  {{< br >}}Soil Structure |  |
-| 4 | LCJ | Basic Strength Principles  {{< br >}}  {{< br >}}Simple Clay (Laddite) - NC | Homework problem 1 due |
-| 5 | LCJ | Laddite - OC  {{< br >}}  {{< br >}}Hvorslev Parameters, SB Surface |  |
-| 6 | AJW | Plasticity  {{< br >}}  {{< br >}}Mechanisms Controlling Compressibility of Clays | Homework problem 2 due |
-| 7 | AJW | Mechanisms Controlling Compressibility of Clays |  |
-| 8 | AJW | K0 and Stress History  {{< br >}}  {{< br >}}Stress History Profiling | Homework problem 3 due |
-| 9 | AJW | Rates of Consolidation  {{< br >}}  {{< br >}}Hydraulic Conductivity |  |
-| 10 | AJW | 2° Compression | Mini problem on stress history due |
-| 11 | AJW | Non-Linear Consolidation  {{< br >}}  {{< br >}}2D/3D Effects |  |
-| 12 | LCJ | Problem Soils - 1  {{< br >}}  {{< br >}}Structured Clays, Varved Clays and Peat |  |
-| 13 | LCJ | Problem Soils - 2  {{< br >}}  {{< br >}}Expansive Soils, Residual Soils |  |
-| 14 | LCJ | Embankments on Peat  {{< br >}}  {{< br >}}Surcharging to Control 2° Compression | Homework problem 4 due |
-| 15 | LCJ | Strength 1A and 1B  {{< br >}}  {{< br >}}Strength 1C |  |
-| 16 | LCJ | Strength 1C and IIA  {{< br >}}  {{< br >}}Strength IIB |  |
-| 17 | LCJ | Strength IIB | Mini problem 1 due |
-| 18 | LCJ | Strength IIC - Sample Disturbance |  |
-| 19 | LCJ | Strength IID |  |
-| 20 | LCJ | Strength IID  {{< br >}}  {{< br >}}Strength IID, IIE and IIF | Mini problem 2B due |
-| 21 | AJW | Shear Modes  {{< br >}}  {{< br >}}Clay Anisotropy and E3 Soil Model |  |
-| 22 | AJW | Sands | Homework problem 5 due |
-| 23 | AJW | Sands (cont.) |  |
-| 24 | AJW | Compacted Clay |  |
-| 25 | AJW | Compacted Clay (cont.) |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+LECTURERS
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+AJW and LCJ
+{{< tdclose >}}
+{{< tdopen >}}
+Overview, Organization, Soil Composition  
+  
+Clay-Water Forces
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+LCJ
+{{< tdclose >}}
+{{< tdopen >}}
+Clay-Water Forces, Interparticle Forces
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+LCJ
+{{< tdclose >}}
+{{< tdopen >}}
+Strength Generation in Soils  
+  
+Soil Structure
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+LCJ
+{{< tdclose >}}
+{{< tdopen >}}
+Basic Strength Principles  
+  
+Simple Clay (Laddite) - NC
+{{< tdclose >}}
+{{< tdopen >}}
+Homework problem 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+LCJ
+{{< tdclose >}}
+{{< tdopen >}}
+Laddite - OC  
+  
+Hvorslev Parameters, SB Surface
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+AJW
+{{< tdclose >}}
+{{< tdopen >}}
+Plasticity  
+  
+Mechanisms Controlling Compressibility of Clays
+{{< tdclose >}}
+{{< tdopen >}}
+Homework problem 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+AJW
+{{< tdclose >}}
+{{< tdopen >}}
+Mechanisms Controlling Compressibility of Clays
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+AJW
+{{< tdclose >}}
+{{< tdopen >}}
+K0 and Stress History  
+  
+Stress History Profiling
+{{< tdclose >}}
+{{< tdopen >}}
+Homework problem 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+AJW
+{{< tdclose >}}
+{{< tdopen >}}
+Rates of Consolidation  
+  
+Hydraulic Conductivity
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+AJW
+{{< tdclose >}}
+{{< tdopen >}}
+2° Compression
+{{< tdclose >}}
+{{< tdopen >}}
+Mini problem on stress history due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+AJW
+{{< tdclose >}}
+{{< tdopen >}}
+Non-Linear Consolidation  
+  
+2D/3D Effects
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+LCJ
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Soils - 1  
+  
+Structured Clays, Varved Clays and Peat
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+LCJ
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Soils - 2  
+  
+Expansive Soils, Residual Soils
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+LCJ
+{{< tdclose >}}
+{{< tdopen >}}
+Embankments on Peat  
+  
+Surcharging to Control 2° Compression
+{{< tdclose >}}
+{{< tdopen >}}
+Homework problem 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+LCJ
+{{< tdclose >}}
+{{< tdopen >}}
+Strength 1A and 1B  
+  
+Strength 1C
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+LCJ
+{{< tdclose >}}
+{{< tdopen >}}
+Strength 1C and IIA  
+  
+Strength IIB
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+LCJ
+{{< tdclose >}}
+{{< tdopen >}}
+Strength IIB
+{{< tdclose >}}
+{{< tdopen >}}
+Mini problem 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+LCJ
+{{< tdclose >}}
+{{< tdopen >}}
+Strength IIC - Sample Disturbance
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+LCJ
+{{< tdclose >}}
+{{< tdopen >}}
+Strength IID
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+LCJ
+{{< tdclose >}}
+{{< tdopen >}}
+Strength IID  
+  
+Strength IID, IIE and IIF
+{{< tdclose >}}
+{{< tdopen >}}
+Mini problem 2B due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+AJW
+{{< tdclose >}}
+{{< tdopen >}}
+Shear Modes  
+  
+Clay Anisotropy and E3 Soil Model
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+AJW
+{{< tdclose >}}
+{{< tdopen >}}
+Sands
+{{< tdclose >}}
+{{< tdopen >}}
+Homework problem 5 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+AJW
+{{< tdclose >}}
+{{< tdopen >}}
+Sands (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+AJW
+{{< tdclose >}}
+{{< tdopen >}}
+Compacted Clay
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+AJW
+{{< tdclose >}}
+{{< tdopen >}}
+Compacted Clay (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
