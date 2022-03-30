@@ -5,6 +5,7 @@ description: This file explains problem soil, higly structured and senstive soil
   soil, and varved clay.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-322-soil-behavior-spring-2005/bdd945e0fa8fcdd50ceb4f66b86e5fab_14consolidatnvi.pdf
 file_type: application/pdf
+parent_uid: 55664a46-3384-4ac6-88f1-fecbd3d4e69a
 resourcetype: Document
 title: 14consolidatnvi.pdf
 uid: bdd945e0-fa8f-cdd5-0ceb-4f66b86e5fab

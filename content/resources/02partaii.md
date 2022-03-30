@@ -5,6 +5,7 @@ description: This file continues the introduction to the topics for the course w
   mechanisms controlling, soil structure, classiffication tests.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-322-soil-behavior-spring-2005/961195725fd07365477f97d8a844226d_02partaii.pdf
 file_type: application/pdf
+parent_uid: 55664a46-3384-4ac6-88f1-fecbd3d4e69a
 resourcetype: Document
 title: 02partaii.pdf
 uid: 96119572-5fd0-7365-477f-97d8a844226d
