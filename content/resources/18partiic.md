@@ -6,6 +6,11 @@ description: This resource provides information about stress system, types of an
   consideration of anisotropy in under stress analysis.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-322-soil-behavior-spring-2005/e8854a651e4f22177d4cb3beeefc45b1_18partiic.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 55664a46-3384-4ac6-88f1-fecbd3d4e69a
 resourcetype: Document
 title: 18partiic.pdf

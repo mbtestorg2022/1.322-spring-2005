@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 3c2f706d-8838-bf46-9f73-4a0e771dbc00
 ---
@@ -49,7 +51,7 @@ Lecture Topics
 *   Introducation (K0 Trends and Measurement, Role of Oedometer Test)
 *   Amount of 1-D Settlement (Preconsolidation Mechanisms and Measurement, Disturbance, Creep, etc.)
 *   Rate of 1-D Consolidation
-*   Secondary Compression (Cα/Cc, Hypothesis A vs. B)
+*   Secondary Compression (C{{< sub "α" >}}/C{{< sub "c" >}}, Hypothesis A vs. B)
 *   2-D and 3-D Settlement (Initial, Amount and Rate of Consolidation)
 *   Problem Soils (Sensitive, Organic, Expansive, Collapsing, Varved, etc.)
 
@@ -62,7 +64,7 @@ Lecture Topics
 
 *   Conventional Practice for UU Case (In Situ and Lab Techniques)
 *   Sample Disturbance
-*   Stress System (σ2 and Anisotropy)
+*   Stress System (σ{{< sub "2" >}} and Anisotropy)
 *   Overview of MIT-E3 Model
 *   Time (Strain Rate and Creep)
 *   Conclusions and Special Problems
@@ -71,7 +73,7 @@ Lecture Topics
 ### Strength-Deformation Behavior of Cohesionless Soils
 
 *   Strength Components and Steady-state Line
-*   Effects of Density, Confinement and σ2 on Drained and Especially Undrained Behavior
+*   Effects of Density, Confinement and σ{{< sub "2" >}} on Drained and Especially Undrained Behavior
 *   Effects of Sand Structure (Anisotropy, Stress History, Heterogeneity etc.)
 *   MIT-S1 Model Overview
 

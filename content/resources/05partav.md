@@ -5,6 +5,11 @@ description: This file explains the topic of Mechanism Controlling Compressibili
   change, and examples of factors affecting initial fabric.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-322-soil-behavior-spring-2005/e68426925f41e69ad4d3f821bbe3ded3_05partav.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 55664a46-3384-4ac6-88f1-fecbd3d4e69a
 resourcetype: Document
 title: 05partav.pdf

@@ -5,6 +5,11 @@ description: This file explains magnitude of final settlement with the help of O
   graphical methods, and effect of time and end-of-primary.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/1-322-soil-behavior-spring-2005/679301ae734fd396a007ea8373ea4807_10consolidatnii.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 parent_uid: 55664a46-3384-4ac6-88f1-fecbd3d4e69a
 resourcetype: Document
 title: 10consolidatnii.pdf

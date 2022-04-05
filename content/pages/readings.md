@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 4fa82c02-4e13-8bdd-2149-8ef93dd83cab
 ---
@@ -14,6 +17,6 @@ Ladd, C., R. Foott, K. Ishihara, F. Schlosser, and H. Poulos. "Stress-Deformatio
 
 Ladd, C., and R. Foott. "New Design Procedure for Stability of Soft Clays." _Joumal of the Geotechnical Engincening Dision_ 100, no. GT (July 1974): 763-786.
 
-Ladd, C. "Stress-Strain Behavior of Saturated Clay and Basic Strength Principles." Research in Earth Physics, Research Report R64-17, Phase Report 1, April 1964. ([PDF - 2.3 MB]({{< baseurl >}}/resources/readstrestranlad))
+Ladd, C. "Stress-Strain Behavior of Saturated Clay and Basic Strength Principles." Research in Earth Physics, Research Report R64-17, Phase Report 1, April 1964. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.3 MB]({{< baseurl >}}/resources/readstrestranlad))
 
 Ladd, C., and E. Kinner. "The Strength of Clays at Low Effective Stress." Research in Earth Physics, Research Report R67-4, Phase Report 8, January 1967.
